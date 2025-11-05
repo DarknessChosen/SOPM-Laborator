@@ -1,2 +1,2 @@
 # SOPM-Laborator
-Laboratoare la SOPM
+Toate lucrarile de laborator ce trebuiesc facute individual vor fi incarcate aici
